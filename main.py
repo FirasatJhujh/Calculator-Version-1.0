@@ -49,7 +49,7 @@ root.maxsize(550, 600)
 
 root.title("Calculator")
 
-root.wm_iconbitmap(resource_path("Calculator-icon.ico"))
+root.wm_iconbitmap(resource_path("dist\\Calculator-icon.ico"))
 
 
 # Sc value
