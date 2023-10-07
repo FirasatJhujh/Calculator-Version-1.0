@@ -13,3 +13,6 @@ How to install this setup
 4 - open C Drive search Program Files (x86) and find Calculator directory or folder create a shortcut of Calculator.
 
 ##
+Feel free to reach out if you have any suggestions for a new project or ideas on how to enhance the current one. If you encounter any issues while running the program, please don't hesitate to contact me for assistance.
+
+Email **www.realfirasat@gmail.com**
